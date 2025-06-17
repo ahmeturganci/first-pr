@@ -1,0 +1,42 @@
+{
+  "title": "First PR! 🚀",
+  "subtitle": "Herkes adını ekleyip ilk PR deneyimini yaşasın! 💥",
+  "howToJoin": "Nasıl Katılırım?",
+  "hideGuide": "Rehberi Gizle",
+  "refresh": "Yenile",
+  "warriors": "Cesur Geliştirici",
+  "conflictWarriors": "İlk PR Kahramanları 🛡️",
+  "loadingWarriors": "Geliştiriciler yükleniyor...",
+  "noOneJoined": "Henüz kimse katılmamış. İlk sen ol! 🚀",
+  "footerText": "💡 Bu depo, Git'i öğrenmek isteyen yeni başlayanlar için tasarlanmış basit bir önyüz projesidir.",
+  "gitFlowGuide": "Git Flow Rehberi",
+  "conflictStrategy": "⚠️ Conflict Yaratma Stratejisi",
+  "conflictDescription": "Herkes aynı users.json dosyasını düzenlediği için merge conflict'leri kaçınılmaz! Bu sayede gerçek conflict çözme deneyimi yaşayacaksınız.",
+  "steps": {
+    "step1": {
+      "title": "1. Repository'yi Fork Et",
+      "description": "GitHub'da projeyi kendi hesabınıza fork edin",
+      "command": "GitHub'da 'Fork' butonuna tıklayın"
+    },
+    "step2": {
+      "title": "2. Local'e Clone Et",
+      "description": "Fork ettiğiniz projeyi bilgisayarınıza indirin",
+      "command": "git clone https://github.com/[username]/first-pr.git"
+    },
+    "step3": {
+      "title": "3. users.json Dosyasını Düzenle",
+      "description": "users.json dosyasının SONUNA sadece adınızı ekleyin",
+      "command": "{ \"name\": \"Adınız Soyadınız\" }"
+    },
+    "step4": {
+      "title": "4. Değişiklikleri Commit Et",
+      "description": "Conventional commit formatını kullanın",
+      "command": "git add . && git commit -m 'feat: add [your-name] to users list'"
+    },
+    "step5": {
+      "title": "5. Pull Request Oluştur",
+      "description": "Ana repoya merge için PR açın",
+      "command": "GitHub'da 'Create Pull Request' butonuna tıklayın"
+    }
+  }
+}

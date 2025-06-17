@@ -1,0 +1,42 @@
+{
+  "title": "First PR! 🚀",
+  "subtitle": "Everyone add their name and experience their first PR! 💥",
+  "howToJoin": "How to Join?",
+  "hideGuide": "Hide Guide",
+  "refresh": "Refresh",
+  "warriors": "Brave Developers",
+  "conflictWarriors": "First PR Heroes 🛡️",
+  "loadingWarriors": "Loading developers...",
+  "noOneJoined": "No one has joined yet. Be the first! 🚀",
+  "footerText": "💡 This repository is a simple frontend project designed for beginners who want to learn Git.",
+  "gitFlowGuide": "Git Flow Guide",
+  "conflictStrategy": "⚠️ Conflict Creation Strategy",
+  "conflictDescription": "Since everyone edits the same users.json file, merge conflicts are inevitable! This way you'll experience real conflict resolution.",
+  "steps": {
+    "step1": {
+      "title": "1. Fork Repository",
+      "description": "Fork the project to your GitHub account",
+      "command": "Click 'Fork' button on GitHub"
+    },
+    "step2": {
+      "title": "2. Clone Locally",
+      "description": "Download the forked project to your computer",
+      "command": "git clone https://github.com/[username]/first-pr.git"
+    },
+    "step3": {
+      "title": "3. Edit users.json File",
+      "description": "Add only your name to the END of users.json file",
+      "command": "{ \"name\": \"Your Full Name\" }"
+    },
+    "step4": {
+      "title": "4. Commit Changes",
+      "description": "Use conventional commit format",
+      "command": "git add . && git commit -m 'feat: add [your-name] to users list'"
+    },
+    "step5": {
+      "title": "5. Create Pull Request",
+      "description": "Open PR to merge into main repository",
+      "command": "Click 'Create Pull Request' on GitHub"
+    }
+  }
+}
