@@ -2,6 +2,9 @@
 
 Bu proje, geliştiricilerin ilk Pull Request deneyimlerini yaşaması ve Git merge conflict'lerini öğrenmesi için özellikle tasarlanmıştır. Herkes aynı dosyayı düzenlediği için conflict'ler kaçınılmazdır!
 
+<img width="1459" alt="image" src="https://github.com/user-attachments/assets/87820aa8-82cd-401f-98ac-b4c9ccc76a04" />
+
+
 ## 🎯 Proje Amacı
 
 - İlk Pull Request deneyimi yaşatmak
